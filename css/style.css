@@ -41,7 +41,7 @@ color: #4d5ae5;
  }
  .address{
     font-style: normal;
-    color: #434455;
+    color: #55434c;
  }
  .address-list{
    font-size: 16px;
@@ -83,18 +83,6 @@ color: #4d5ae5;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
-    color: #2e2f42;
-}
-.{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: #2e2f42;
-}
-.{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
     color: #2e2f42;
 }
  .portfolio-title{
