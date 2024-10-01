@@ -17,26 +17,27 @@ a{
     background: #4d5ae5;
     color: #fff;
  }
- .logo{
-    font-family: "Raleway",sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    text-decoration: none;
-    color:#4d5ae5;
+ .nav-logo{
+   font-family:"Raleway",sans-serif ; 
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
  }
- .logo-studio{
+ .nav-logo-studio{
     color: #2e2f42;
  }
- .nav-list a {
-color: #4d5ae5;
-    text-decoration: none;
-    transition: color 0.3s ease;
+ .nav-list  {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
  }
- .nav-list a:hover,
- .nav-list a:focus {
+ .nav-list :hover,
+ .nav-list :focus {
     color: #404bbf;
  }
  .address{
@@ -49,9 +50,9 @@ color: #4d5ae5;
    letter-spacing: 0.02em;
    color: #434455;
  }
- .address-list a:hover
+.address-list a:hover
 .address-list a:focus{
-   color: #404bbf
+   color: #404bbf;
 }
  .section-one{
     background-color: #2e2f42;
